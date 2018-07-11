@@ -1,31 +1,75 @@
-#one{
+font-family: 'Source Serif Pro', serif;
+#one {
   height: 200px;
 }
-#two{
+
+#two {
   height: 200px;
 }
-#third{
+
+#third {
   height: 200px;
 }
-#fourth{
+
+#fourth {
   height: 200px
 }
 
-#fifth{
+#fifth {
   height: 200px
 }
-#sixth{
+
+#sixth {
   height: 200px
 }
-#seventh{
+
+#seventh {
   height: 200px
 }
-#eighth{
+#h1{
+  font-size: 60px;
+}
+#badge{
+  border-radius: 70%;
+}
+#eighth {
   height: 200px
 }
-#ninth{
+
+#ninth {
   height: 200px
 }
-#hgirl{
+
+#hgirl {
   height: 200px
+}
+.posts{
+  padding-top: 30%;
+}
+#table {
+  position: absolute;
+  background: #ddd;
+  border: solid #999;
+  box-shadow: 0 0 5 3px #ccc;
+  height: 150px;
+  width: 300px;
+  text-align: center;
+}
+#logo{
+  height: 200px;
+    width: 50%;
+}
+.img {
+  border-radius: 50%;
+}
+
+#info {
+  font-size: 20px;
+}
+p{
+  font-size: 25px;
+}
+#social{
+  width: 200px;
+  float: right;
 }
